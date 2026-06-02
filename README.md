@@ -1,9 +1,8 @@
 Hi there!
 
-I am a nuclear/particle physics PhD student at William & Mary studying meson spectroscopy with the GlueX collaboration at Jefferson Lab. My work focuses more on the "experimental" side of physics, particularly large scale data analysis. In addition to the complex physics models and analysis I work with daily, I'm interested in:
+I am a nuclear/particle physics postdoc at Ruhr Universität Bochum studying meson spectroscopy with the GlueX collaboration at Jefferson Lab. My work focuses more on the "experimental" side of physics, particularly large scale data analysis. In addition to the complex physics models and analysis I work with daily, I'm interested in:
 - :bar_chart: Data visualization methods! I love finding new ways to plot and understand what I'm working with
 - Machine learning / AI techniques
-- :hospital: Exploring the overlap between medical and nuclear research, whether it be hardware of radiation detectors or making predictive models from patient data
 
 <!--
 **kevScheuer/kevScheuer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
